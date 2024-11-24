@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @druidmert
-- 👀 I’m interested in JavaScript,HTML
+- 👀 I’m interested in JavaScript,HTML,CSS
 - 🌱 I’m currently learning javaScript
 - 💞️ I’m looking to collaborate about learning javascript together
 - 📫 How to reach me : https://www.instagram.com/merttmokann/?hl=tr
